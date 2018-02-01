@@ -7,8 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/react": "^16.0.36",
+    "@types/react-native": "^0.52.7",
     "react": "16.2.0",
-    "react-native": "0.52.2"
+    "react-native": "0.52.2",
+    "react-native-tab-navigator": "^0.3.4"
   },
   "devDependencies": {
     "babel-jest": "22.1.0",
